@@ -1,0 +1,5 @@
+build:
+  docker:
+    hellbot: Dockerfile
+run:
+  hellbot: python3 -m hellbot
